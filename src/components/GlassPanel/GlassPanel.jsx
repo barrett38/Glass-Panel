@@ -1,5 +1,5 @@
 import React from "react";
-// import "../App.css";
+import "./GlassPanel.css";
 
 const GlassPanel = () => {
   return (

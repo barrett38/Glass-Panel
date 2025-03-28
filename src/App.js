@@ -1,6 +1,6 @@
 import React from "react";
-import GlassPanel from "./components/GlassPanel";
-import "./App.css";
+import GlassPanel from "./components/GlassPanel/GlassPanel";
+import "./components/GlassPanel/GlassPanel.css";
 
 function App() {
   return (
